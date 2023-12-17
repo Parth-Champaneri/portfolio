@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# Production build folder
+build/
+
+# Environment files
+.env
+
+# Misc
+.DS_Store
+.idea/
+.vscode/
+.next/
+
